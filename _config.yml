@@ -2,7 +2,7 @@
 title:               "Junsuu's"
 tagline:             'Programming Blog'
 description:         'Junior programmer Junsuu''s Blog who want to be a goooood Web Back-end developer'
-url:                 http://junsuu.github.io
+url:                 https://junsuu.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
